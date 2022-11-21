@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/school/iCity/app/src/main/res/drawable/buttonslayout.xml" value="0.1565" />
+        <entry key="..\:/school/iCity/app/src/main/res/drawable/countrypicker.xml" value="0.1765" />
+        <entry key="..\:/school/iCity/app/src/main/res/drawable/create.xml" value="0.24" />
+        <entry key="..\:/school/iCity/app/src/main/res/drawable/ic_baseline_panorama_fish_eye_24.xml" value="0.2385" />
+        <entry key="..\:/school/iCity/app/src/main/res/drawable/phone.xml" value="0.1" />
+        <entry key="..\:/school/iCity/app/src/main/res/drawable/slider.xml" value="0.1985" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_all_categories.xml" value="0.27291666666666664" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_forget_password.xml" value="0.27291666666666664" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_forget_password_two.xml" value="0.27291666666666664" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_login_sign_up.xml" value="0.27291666666666664" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_on_boarding.xml" value="0.27291666666666664" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_otp_verify.xml" value="0.27291666666666664" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_retailer_login.xml" value="0.27291666666666664" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_retailer_sign_up.xml" value="0.27291666666666664" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_retailer_sign_up_two.xml" value="0.27291666666666664" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_retailer_signup_three.xml" value="0.27291666666666664" />
+        <entry key="..\:/school/iCity/app/src/main/res/layout/activity_set_new_password.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

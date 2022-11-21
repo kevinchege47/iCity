@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:elevation="8dp"
+    android:background="#F0F0">
+
+    <TextView
+        android:id="@+id/menu_slogan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="@string/logo_name"
+        android:textColor="@android:color/black"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/nav_logo"
+        android:layout_width="50dp"
+        android:layout_height="70dp"
+        android:src="@drawable/nav_logo"
+        android:layout_marginLeft="10dp"
+        android:layout_alignParentTop="true"/>
+
+    <ImageView
+
+       android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:id="@+id/nav_car"
+        android:layout_toRightOf="@id/menu_slogan"
+        android:layout_marginLeft="80dp"
+        android:layout_width="170dp"
+        android:layout_height="130dp"
+        android:elevation="8dp"
+        android:src="@drawable/slide_one"/>
+
+
+</RelativeLayout>

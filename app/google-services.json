@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96433117513",
+    "project_id": "icity-aeb25",
+    "storage_bucket": "icity-aeb25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96433117513:android:14b040e5fd990a13a22298",
+        "android_client_info": {
+          "package_name": "com.example.icity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96433117513-fgtr3u45mr2nslsoihv484chs2jjs723.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIKxXLzUKKm9v9yRUssHqGwVzBg9-hGpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96433117513-fgtr3u45mr2nslsoihv484chs2jjs723.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

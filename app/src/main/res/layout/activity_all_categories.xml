@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F8FF"
+    android:orientation="vertical"
+    tools:context=".User.AllCategories">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/back_pressed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:src="@drawable/back" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:padding="15dp"
+                android:src="@drawable/search_icon" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+
+            android:fontFamily="@font/baloo"
+            android:padding="10dp"
+            android:text="Categories"
+            android:textSize="25sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+
+            <RelativeLayout
+                android:id="@+id/rental"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginStart="21dp"
+                android:layout_marginLeft="21dp"
+                android:layout_marginTop="21dp"
+                android:layout_marginEnd="21dp"
+                android:layout_marginRight="21dp"
+                android:layout_marginBottom="21dp"
+                android:background="@drawable/cata">
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/baloo"
+                    android:padding="20dp"
+                    android:text="Car Rent"
+                    android:textSize="25sp" />
+
+
+            </RelativeLayout>
+
+
+            <ImageView
+                android:id="@+id/car"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="-20dp"
+                android:src="@drawable/slide_one" />
+        </RelativeLayout>
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_margin="21dp"
+            android:background="@drawable/catb">
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="1dp"
+                android:fontFamily="@font/baloo"
+                android:padding="5dp"
+                android:text="Driving Schools"
+                android:textColor="@android:color/white"
+                android:textSize="28sp" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_margin="21dp"
+            android:background="@drawable/catb">
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="1dp"
+                android:fontFamily="@font/baloo"
+                android:padding="5dp"
+                android:text="Driving Schools"
+                android:textColor="@android:color/white"
+                android:textSize="28sp" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_margin="21dp"
+            android:background="@drawable/catb">
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="1dp"
+                android:fontFamily="@font/baloo"
+                android:padding="5dp"
+                android:text="Driving Schools"
+                android:textColor="@android:color/white"
+                android:textSize="28sp" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+
+            <RelativeLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_margin="21dp"
+                android:background="@drawable/cata">
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/baloo"
+                    android:padding="20dp"
+                    android:text="Car Rent"
+                    android:textSize="25sp" />
+
+
+            </RelativeLayout>
+
+
+            <ImageView
+                android:id="@+id/carb"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="-20dp"
+                android:src="@drawable/slide_one" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+
+            <RelativeLayout
+                android:id="@+id/rentals"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_margin="21dp"
+                android:background="@drawable/cata">
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/baloo"
+                    android:padding="20dp"
+                    android:text="Car Rent"
+                    android:textSize="25sp" />
+
+
+            </RelativeLayout>
+
+
+            <ImageView
+                android:id="@+id/carc"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="-20dp"
+                android:src="@drawable/slide_one" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+</ScrollView>

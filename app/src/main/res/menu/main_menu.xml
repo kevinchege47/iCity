@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/nav_home"
+            android:title="@string/home"></item>
+
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/search_icon"
+            android:title="@string/search">
+
+        </item>
+
+
+        <item
+            android:id="@+id/nav_allcategories"
+            android:icon="@drawable/categories"
+            android:title="@string/categories_nav">
+
+        </item>
+
+
+    </group>
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_login"
+                    android:icon="@drawable/lockin"
+                    android:title="@string/Login"></item>
+
+                <item
+                    android:id="@+id/nav_signup"
+                    android:icon="@drawable/sign_up"
+                    android:title="@string/SignUp">
+
+                </item>
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/lockout"
+                    android:title="@string/Logout">
+
+                </item>
+
+
+            </group>
+
+        </menu>
+
+
+    </item>
+
+
+
+    <item android:title="Rate Us">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/nav_one"
+                    android:icon="@drawable/share"
+                    android:title="@string/Share"></item>
+
+                <item
+                    android:id="@+id/nav_two"
+                    android:icon="@drawable/rate"
+                    android:title="@string/Rate">
+
+                </item>
+
+
+            </group>
+
+        </menu>
+
+
+    </item>
+
+
+</menu>

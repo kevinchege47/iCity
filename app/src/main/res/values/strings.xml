@@ -1,0 +1,95 @@
+<resources>
+    <!--    <splash screen>-->
+    <string name="app_name">iCity</string>
+    <string name="logo_name">iCity</string>
+    <string name="slogan">We will help you get a way!</string>
+    <string name="power"> Powered by:KeiCii</string>
+    <!--<on-board>-->
+
+    <!--    <slide titles>-->
+    <string name="first_title">Search your Location</string>
+    <string name="second_title">Make a Call</string>
+    <string name="third_title">Add Misssing Place</string>
+    <string name="fourth_title">Relax and enjoy</string>
+    <!--    <slide descriptions>-->
+    <string name="first_desc">Search For Any nearby place within the specified city</string>
+    <string name="second_desc">We have all the contact numbers of the all the places registered with us.</string>
+    <string name="third_desc">If you want to be part of our growing industry /n Join Us!</string>
+    <string name="fourth_desc">We will handle it for you.Sit Back!</string>
+
+    <!--    <Buttons>-->
+
+    <string name="Skip">Skip</string>
+    <string name="Next">Next</string>
+    <string name="started">Lets Get Started</string>
+
+    <!--    <Onboarding>-->
+    <string name="Search">Search</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="Shops">Shops</string>
+    <string name="Airport">Airport</string>
+    <string name="malls">Malls</string>
+    <string name="Feature"> All Featured Locations</string>
+    <string name="MostViewed"> Most Viewed</string>
+    <string name="view"> View All</string>
+    <string name="categories">Categories</string>
+
+    <!--    <Dashboard>-->
+
+    <string name="Mcdonalds"> fehc jdjhcvc jhdgcj hsfgefguef gywtyu dyutwd qdgywydw dwgydywd </string>
+    <string name="naivas"> fehcjdjhcvcjhdgcjhs</string>
+    <string name="cleanshelf"> fehcjdjhcvcjhdgcjhs</string>
+    <string name="woolworths"> fehcjdjhcvcjhdgcjhs</string>
+    <string name="jkia"> fehcjdjhcvcjhdgcjhs</string>
+
+
+    <!--    <Nav Drawer>-->
+    <string name="home">HOME</string>
+    <string name="search"> SEARCH</string>
+    <string name="categories_nav">All CATEGORIES</string>
+    <string name="Missing_place">ADD MISSING PLACE</string>
+    <string name="profile">Profile</string>
+    <string name="Login">Profile</string>
+    <string name="SignUp">Profile</string>
+    <string name="Logout">Profile</string>
+    <string name="Share">Share</string>
+    <string name="Rate">Rate us</string>
+
+
+    <!--    <Login Page>-->
+    <string name="Grow">Grow \n Your Business</string>
+    <string name="LoginPageLogin">Login</string>
+    <string name="LoginPageLogout">LogOut</string>
+    <string name="LoginPageSignup">SignUp</string>
+
+
+    <!--    <Retailer Login-->
+    <string name="remember">Remember Me</string>
+    <string name="Forgot">Forgot Password ?</string>
+    <string name="create">Create Account</string>
+
+    <!--    <RetailerSignUp>-->
+    <string name="RetailerSignUp">Sign Up</string>
+    <string name="RetailerNext">NEXT</string>
+    <string name="gender">Choose Gender</string>
+    <string name="gendermale">Male</string>
+    <string name="genderfemale">Female</string>
+    <string name="genderother">Other</string>
+    <string name="DOB">Date Of Birth</string>
+
+    <!--    <VerifyOTP>-->
+
+    <string name="CODE">CO\nDE</string>
+    <string name="verification">VERIFICATION</string>
+    <string name="enterotp">Enter One Time Password\nSent To Your Phone </string>
+    <string name="verify">VERIFY </string>
+
+    <!--    <ForgotPassword>-->
+
+    <string name="forgot">FORGOT\nPASSWORD</string>
+    <string name="credentilas">New\nCredentials</string>
+    <string name="credentials">Your identity has been verified.Please enter new credentials</string>
+    <string name="ok">ok</string>
+    <string name="updated">password updated</string>
+
+</resources>
