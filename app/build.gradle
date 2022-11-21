@@ -2,16 +2,19 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 33
 
     defaultConfig {
         applicationId "com.example.icity"
         minSdkVersion 16
-        targetSdkVersion 29
+        targetSdkVersion 33
         versionCode 1
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    lintOptions{
+        abortonError false
     }
 
     buildTypes {
@@ -42,7 +45,7 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:26.2.0')// Declare the dependency for the Firebase Authentication library
     // When using the BoM, you don't specify versions in Firebase library dependencies
     implementation 'com.google.firebase:firebase-auth'
-    implementation 'com.android.support:customtabs:28.0.0'
+//    implementation 'com.android.support:customtabs:28.0.0'
 
 
 }

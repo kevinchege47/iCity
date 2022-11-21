@@ -81,7 +81,6 @@
                 android:layout_marginTop="-20dp"
                 android:src="@drawable/slide_one" />
         </RelativeLayout>
-
         <RelativeLayout
 
             android:layout_width="match_parent"
@@ -103,117 +102,5 @@
 
 
         </RelativeLayout>
-
-        <RelativeLayout
-
-            android:layout_width="match_parent"
-            android:layout_height="180dp"
-            android:layout_margin="21dp"
-            android:background="@drawable/catb">
-
-            <TextView
-
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentRight="true"
-                android:layout_marginRight="1dp"
-                android:fontFamily="@font/baloo"
-                android:padding="5dp"
-                android:text="Driving Schools"
-                android:textColor="@android:color/white"
-                android:textSize="28sp" />
-
-
-        </RelativeLayout>
-
-        <RelativeLayout
-
-            android:layout_width="match_parent"
-            android:layout_height="180dp"
-            android:layout_margin="21dp"
-            android:background="@drawable/catb">
-
-            <TextView
-
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentRight="true"
-                android:layout_marginRight="1dp"
-                android:fontFamily="@font/baloo"
-                android:padding="5dp"
-                android:text="Driving Schools"
-                android:textColor="@android:color/white"
-                android:textSize="28sp" />
-
-
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="190dp">
-
-            <RelativeLayout
-
-                android:layout_width="match_parent"
-                android:layout_height="150dp"
-                android:layout_margin="21dp"
-                android:background="@drawable/cata">
-
-                <TextView
-
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/baloo"
-                    android:padding="20dp"
-                    android:text="Car Rent"
-                    android:textSize="25sp" />
-
-
-            </RelativeLayout>
-
-
-            <ImageView
-                android:id="@+id/carb"
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_alignParentRight="true"
-                android:layout_marginTop="-20dp"
-                android:src="@drawable/slide_one" />
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="190dp">
-
-            <RelativeLayout
-                android:id="@+id/rentals"
-                android:layout_width="match_parent"
-                android:layout_height="150dp"
-                android:layout_margin="21dp"
-                android:background="@drawable/cata">
-
-                <TextView
-
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/baloo"
-                    android:padding="20dp"
-                    android:text="Car Rent"
-                    android:textSize="25sp" />
-
-
-            </RelativeLayout>
-
-
-            <ImageView
-                android:id="@+id/carc"
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_alignParentRight="true"
-                android:layout_marginTop="-20dp"
-                android:src="@drawable/slide_one" />
-        </RelativeLayout>
-
-
     </LinearLayout>
 </ScrollView>
